@@ -60,12 +60,9 @@
       <a href="{{ post.doi }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
     {% endif %}
     {% if post.arxiv %}
-      <a href="{{ post.arxiv }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+      <a href="{{ post.arxiv }}"><i class="ai ai-arxiv ai-fw" aria-hidden="true"></i></a>
     {% endif %}
     {% if post.fpsac %}
-      [<button name="button" onclick="{{ post.fpsac }}">FPSAC</button>]
-    {% endif %}
-    {% if post.fpsac2 %}
       <a href="{{ post.fpsac }}"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
     {% endif %}
     {% if post.open %}
