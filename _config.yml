@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -180,9 +180,9 @@ collections:
 #  teaching:
 #    output: true
 #    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+#  publications:
+#    output: true
+#    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
