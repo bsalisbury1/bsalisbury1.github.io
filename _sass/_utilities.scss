@@ -238,6 +238,10 @@ body:hover .visually-hidden button {
   .fa-pinterest-square {
     color: $pinterest-color;
   }
+  
+  .fa-researchgate {
+    color: $researchgate-color;
+  }
 
   .fa-rss,
   .fa-rss-square {
@@ -283,12 +287,18 @@ body:hover .visually-hidden button {
     color: $xing-color;
   }
   
-  .ai-orchid,
-  .ai-orchid-square {
-    color: $orcid-color;}
+  .ai-orcid,
+  .ai-orcid-square {
+    color: $orcid-color;
+  }
     
   .ai-arxiv {
-    color: $arxiv-color;}
+    color: $arxiv-color;
+  }
+  
+  .ai-google-scholar {
+    color: $google-plus-color;
+  }
 }
 
 
