@@ -13,34 +13,39 @@ There are so many factors that can help a student learn any topic, let alone mat
 For each class that I have taught, I have made a record below and attached the
 syllabus for that course.
 
+
 ## At Central Michigan University
 
-- MTH 105: Intermediate Algebra ([Summer 2020]())
-- MTH 132: Calculus I ([Spring 2020](), [Summer 2021]())
-- MTH 132H: Honors Calculus I ([Fall 2015](), [Fall 2016](), [Fall 2017](), [Fall 2018]())
-- MTH 133: Calculus II ([Fall 2013]())
-- MTH 133H: Honors Calculus II ([Spring 2019]())
-- MTH 217: Business Calculus ([Summer 2016](), [Summer 20217](), [Summer 2018]())
-- MTH 223: Linear Algebra and Matrix Theory ([Fall 2014]())
-- MTH 232: Linear Algebra and Differential Equations ([Spring 2021]())
-- MTH 233: Multivariable Calculus ([Spring 2014](), [Fall 2018]())
-- MTH 332: Introduction to Mathematical Proof ([Fall 2020]())
-- MTH 375: Discrete Structures ([Spring 2018]())
-- MTH 521: Theory of Numbers ([Fall 2021]())
-- MTH 523: Abstract Algebra ([Spring 2018]())
-- MTH 525: Advanced Linear Algebra ([Fall 2015]())
-- MTH 527: Representation Theory of the Symmetric Group ([Spring 2016]())
-- MTH 578: Combinatorics I ([Fall 2016]())
-- MTH 625: Theory of Rings and Modules ([Fall 2014]())
-- MTH 627: Representation Theory of Lie Algebras ([Spring 2017]())
-- MTH 673: History of Advanced Mathematics ([Summer 2014](), [Summer 2016]())
-- MTH 678: Combinatorics II ([Spring 2015](), [Spring 2019]())
+- MTH 105: Intermediate Algebra ([Summer 2020](/files/syllabus-mth105su20.pdf))
+- MTH 132: Calculus I ([Spring 2020](/files/syllabus-mth132s20.pdf), [Summer 2021](/files/syllabus-mth132su21.pdf))
+- MTH 132H: Honors Calculus I ([Fall 2015](/files/syllabus-mth132Hf15.pdf), [Fall 2016](/files/syllabus-mth132Hf16.pdf), [Fall 2017](/files/syllabus-mth132Hf17.pdf), [Fall 2018](/files/syllabus-mth132Hf18.pdf))
+- MTH 133: Calculus II ([Fall 2013](/files/syllabus-mth133f13.pdf))
+- MTH 133H: Honors Calculus II ([Spring 2019](/files/syllabus-mth133Hs19.pdf))
+- MTH 217: Business Calculus ([Summer 2016](/files/syllabus-mth217su16.pdf), [Summer 2017](/files/syllabus-mth217su17.pdf), [Summer 2018](/files/syllabus-mth217su18.pdf))
+- MTH 223: Linear Algebra and Matrix Theory ([Fall 2014](/files/syllabus-mth223f14.pdf))
+- MTH 232: Linear Algebra and Differential Equations ([Spring 2021](/files/syllabus-mth232s21.pdf))
+- MTH 233: Multivariable Calculus ([Spring 2014](/files/syllabus-mth233s14.pdf), [Fall 2018](/files/syllabus-mth233f18.pdf))
+- MTH 332: Introduction to Mathematical Proof ([Fall 2020](/files/syllabus-mth332f20.pdf))
+- MTH 375: Discrete Structures ([Fall 2018](/files/syllabus-mth375f18.pdf))
+- MTH 521: Theory of Numbers ([Fall 2021](/files/syllabus-mth521f21.pdf))
+- MTH 523: Abstract Algebra ([Spring 2018](/files/syllabus-mth523s18.pdf))
+- MTH 525: Advanced Linear Algebra ([Fall 2015](/files/syllabus-mth525f15.pdf))
+- MTH 527: Representation Theory of the Symmetric Group ([Spring 2016](/files/syllabus-mth527s16.pdf))
+- MTH 578: Combinatorics I ([Fall 2016](/files/syllabus-mth578f16.pdf))
+- MTH 625: Theory of Associative Rings ([Fall 2014](/files/syllabus-mth625f14.pdf))
+- MTH 627: Representation Theory of Lie Algebras ([Spring 2017](/files/syllabus-mth627s17.pdf))
+- MTH 673: History of Advanced Mathematics ([Summer 2014](/files/syllabus-mth673su14.pdf), [Summer 2016](/files/syllabus-mth673su16.pdf))
+- MTH 678: Combinatorics II ([Spring 2015](/files/syllabus-mth678s15.pdf), [Spring 2019](/files/syllabus-mth678s19.pdf))
+
+
 
 ## At the University of Connecticut
 
-- Math 1020: Problem Solving ([Fall 2007](), [Spring 2008]())
-- Math 1070: Business Mathematics ([Summer 2007]())
-- Math 1132: Calculus I ([Fall 2008](), [Fall 2009]())
-- Math 1133: Calculus II ([Spring 2009](), [Spring 2010]())
-- Math 2310: Honors Multivariable Calculus ([Fall 2010]())
-- Math 2410: Differential Equations ([Spring 2011](), [Fall 2011]())
+- Math 1020: Problem Solving ([Fall 2007](/files/syllabus-math1020f07.pdf), [Spring 2008](/files/syllabus-math1020s08.pdf))
+- Math 1070: Mathematics for Business and Economics ([Summer 2012](/files/syllabus-math1070su12.pdf))
+- Math 1131Q: Calculus I ([Fall 2008](/files/syllabus-math1131f08.pdf), [Fall 2009](/files/syllabus-math1131f09.pdf)[^1])
+- Math 1132Q: Calculus II ([Spring 2009](/files/syllabus-math1131s09.pdf), Spring 2010[^1])
+- Math 2310: Honors Multivariable Calculus ([Fall 2010](/files/syllabus-math2310f10.pdf))
+- Math 2410: Differential Equations ([Spring 2011](/files/syllabus-math2410s11.pdf), [Summer 2011](/files/syllabus-math2410su11.pdf), [Fall 2011](/files/syllabus-math2410f11.pdf))
+
+[^1]:  I was discussion leader for three sections for this semester.

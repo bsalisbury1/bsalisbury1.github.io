@@ -11,8 +11,8 @@ redirect_from:
 
 A PDF version of my CV can be found [here](/files/cv_salisbury.pdf).
 
-Education
-=========
+## Education
+
 - Ph.D. in Mathematics (2012), [University of Connecticut](http://www.math.uconn.edu/), Storrs, CT
   * Advisor: [Kyu-Hwan Lee](http://www.math.uconn.edu/~khlee)
   * Dissertation: *A combinatorial formula for the Gindikin-Karpelevich formula*
@@ -21,8 +21,8 @@ Education
 
 - B.S. in Mathematics (2007), [University of Rhode Island](http://www.math.uri.edu/), Kingston, RI
 
-Academic Positions
-==================
+## Academic Positions
+
 - [Central Michigan University](http://www.cmich.edu/Pages/default.aspx), Mount Pleasant, MI
   * Professor of Mathematics, 2020-present
   * Department Chair, 2019-present
