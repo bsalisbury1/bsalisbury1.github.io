@@ -26,9 +26,6 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
-      {{ title }}
-    </h2>
 
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -57,16 +54,16 @@
     {% endif %}
     <br>
     {% if post.doi %}
-      <a href="{{ post.doi }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
+      <a href="{{ post.doi }}"><i class="ai ai-doi ai-fw" aria-hidden="true"></i></a>
     {% endif %}
     {% if post.arxiv %}
       <a href="{{ post.arxiv }}"><i class="ai ai-arxiv ai-fw" aria-hidden="true"></i></a>
     {% endif %}
     {% if post.fpsac %}
-      <a href="{{ post.fpsac }}"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
+      <a href="{{ post.fpsac }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
     {% endif %}
-    {% if post.open %}
-      <a href="{{ post.open }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+    {% if post.file %}
+      <a href="{{ post.file }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
     {% endif %}
     </p>
 
