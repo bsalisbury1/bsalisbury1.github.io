@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ben Salisbury"
 title_separator          : "-"
 name                     : &name "Ben Salisbury"
-description              : &description "personal description"
+description              : &description "Mathematician"
 url                      : https://bsalisbury1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bsalisbury1/bsalisbury1.github.io"
@@ -83,11 +83,14 @@ author:
   name             : "Ben Salisbury"
   avatar           : "profile.png"
   bio              : "Professor of Mathematics and Department Chair"
+  email            : "salis1bt@cmich.edu"
   location         : "Mount Pleasant, MI"
   employer         : "Central Michigan University"
   pubmed           : 
+  orcid            : "http://orcid.org/0000-0002-7013-5301"
+  arxiv            : "http://arXiv.org/find/math/1/au:+Salisbury_B/0/1/0/all/0/1"
   googlescholar    : "https://scholar.google.com/citations?user=kVld5kQAAAAJ&hl=en"
-  email            : "salis1bt@cmich.edu"
+  mathscinet       : "http://www.ams.org/mathscinet/search/author.html?mrauthid=971472"
   researchgate     : "https://www.researchgate.net/profile/Ben_Salisbury"
   uri              :
   bitbucket        :
@@ -103,7 +106,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-7013-5301"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
