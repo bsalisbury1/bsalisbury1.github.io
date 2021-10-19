@@ -36,3 +36,14 @@ A PDF version of my CV can be found [here](/files/cv_salisbury.pdf).
 - [The City College of New York](https://www.ccny.cuny.edu), [CUNY](https://www.cuny.edu), New York, NY
   * Postdoctoral Fellow, 2012
   * Mentor: [Gautam Chinta](https://chinta.ccny.cuny.edu)
+
+
+## Meetings Organized
+
+- [*Free and Practical Software for Algebraic Combinatorics*](https://wiki.sagemath.org/fpsac19), University of Ljubljana, Ljubljana, Slovenia, July 8-12, 2019.  Co-organized with [Mee Seong Im](https://sites.google.com/site/meeseongim/), [Matjaž Konvalinka](https://www.fmf.uni-lj.si/~konvalinka/), [Nicolas Thiéry](https://nicolas.thiery.name), and [Bruce Westbury](https://math.utdallas.edu/4571/westbury-bruce/).
+
+- [*SageDays@ICERM: Combinatorics and Representation Theory*](https://icerm.brown.edu/topical_workshops/tw18-1-sage/), Institute for Computational and Experimental Research in Mathematics, Brown University, Providence, RI, USA, July 23-27, 2018.  Co-organized with [Gabriel Feinberg](https://www.washcoll.edu/people_departments/faculty/feinberg-gabe.php), [Darij Grinberg](https://www.cip.ifi.lmu.de/~grinberg/index.html), and [Travis Scrimshaw](https://people.smp.uq.edu.au/TravisScrimshaw/).
+
+- [*Combinatorial and Geometric Representation Theory*](https://www.ams.org/meetings/sectional/2219_program_ss9.html#title), AMS Fall Sectional Meeting, Loyola University Chicago, Chicago, IL, USA, October 3-4, 2015.  Co-organized with [Peter Tingley](http://webpages.math.luc.edu/~ptingley/).
+
+- [*Algebraic Combinatorics and Representation Theory*](https://jointmathematicsmeetings.org/meetings/national/jmm2015/2168_program_ss36.html#title), AMS-MAA Joint Mathematics Meetings, San Antonio, TX, USA, January 10-13, 2015.  Co-organized with [Zajj Daugherty](https://zdaugherty.ccnysites.cuny.edu).
