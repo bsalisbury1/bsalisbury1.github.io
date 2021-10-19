@@ -57,6 +57,9 @@
     {% if post.doi %}
       <a href="http://dx.doi.org/{{ post.doi }}" class="btn btn--doi">DOI</a>
     {% endif %}
+    {% if post.link %}
+      <a href="{{ post.link }}" class="btn btn--doi">Link</a>
+    {% endif %}
     {% if post.arxiv %}
       <a href="https://arxiv.org/abs/{{ post.arxiv }}" class="btn btn--arXiv">arXiv</a>
     {% endif %}

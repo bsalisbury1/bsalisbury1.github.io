@@ -38,6 +38,9 @@ A PDF version of my CV can be found [here](/files/cv_salisbury.pdf).
   * Mentor: [Gautam Chinta](https://chinta.ccny.cuny.edu)
 
 
+## Funding
+- Simons Foundation, Collaboration Grant for Mathematicians, #429950, 2016--2021.
+
 ## Meetings Organized
 
 - [*Free and Practical Software for Algebraic Combinatorics*](https://wiki.sagemath.org/fpsac19), University of Ljubljana, Ljubljana, Slovenia, July 8-12, 2019.  Co-organized with [Mee Seong Im](https://sites.google.com/site/meeseongim/), [Matjaž Konvalinka](https://www.fmf.uni-lj.si/~konvalinka/), [Nicolas Thiéry](https://nicolas.thiery.name), and [Bruce Westbury](https://math.utdallas.edu/4571/westbury-bruce/).

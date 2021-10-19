@@ -1,7 +1,7 @@
 ---
 title: "Candidate for the crystal $B(\\infty)$ for the queer Lie superalgebra"
 collection: publications
-permalink: /publication/2100-01-01-a-rigged-configuration-model-for-Binfinity
+permalink: /publication/2100-01-01-candidate-for-the-crystal-Binfinity-for-the-queer-Lie-superalgebra
 date: 2100-01-01
 arxiv: '1903.03236'
 fpsac: 'http://fpsac2019.fmf.uni-lj.si/resources/Proceedings/99.pdf'
