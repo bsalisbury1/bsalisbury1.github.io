@@ -14,6 +14,7 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+   <li>
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -54,18 +55,18 @@
     {% endif %}
     <br>
     {% if post.doi %}
-      <a href="{{ post.doi }}"><i class="ai ai-doi ai-fw" aria-hidden="true"></i></a>
+      <a href="http://dx.doi.org/{{ post.doi }}" class="btn btn--doi">DOI</a>
     {% endif %}
     {% if post.arxiv %}
-      <a href="{{ post.arxiv }}"><i class="ai ai-arxiv ai-fw" aria-hidden="true"></i></a>
+      <a href="https://arxiv.org/abs/{{ post.arxiv }}" class="btn btn--arXiv">arXiv</a>
     {% endif %}
     {% if post.fpsac %}
-      <a href="{{ post.fpsac }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+      <a href="{{ post.fpsac }}" class="btn btn--FPSAC">FPSAC</a>
     {% endif %}
     {% if post.file %}
-      <a href="{{ post.file }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
+      <a href="{{ post.file }}" class="btn btn--PDF">PDF</a>
     {% endif %}
     </p>
-
+   </li>
   </article>
 </div>

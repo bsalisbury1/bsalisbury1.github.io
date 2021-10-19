@@ -125,10 +125,13 @@
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
-      background-color: $color;
+      color: #fff !important;
+      background-color: $color !important;
+      border: 0 !important;
 
       &:hover {
-        background-color: mix(#000, $color, 20%);
+        color: #fff !important;
+        background-color: mix(#000, $color, 20%) !important;
       }
     }
   }
@@ -150,4 +153,79 @@
   &--small {
     font-size: $type-size-7;
   }
+  
+  /* research page buttons */
+  
+  &--doi {
+    display: inline-block;
+    margin-bottom: 0.25em;
+    padding: 0.125em 0.25em;
+    color: $link-color;
+    text-align: center;
+    text-decoration: none !important;
+    border: 1px solid;
+    border-color: $warning-color;
+    border-radius: $border-radius;
+    cursor: pointer;
+
+    &:hover {
+      color: #fff;
+      background-color: $warning-color !important;
+    }
+  }
+  
+   &--arXiv {
+    display: inline-block;
+    margin-bottom: 0.25em;
+    padding: 0.125em 0.25em;
+    color: $arxiv-color;
+    text-align: center;
+    text-decoration: none !important;
+    border: 1px solid;
+    border-color: $arxiv-color;
+    border-radius: $border-radius;
+    cursor: pointer;
+
+    &:hover {
+      color: #fff;
+      background-color: $arxiv-color !important;
+    }
+  }
+  
+   &--FPSAC {
+    display: inline-block;
+    margin-bottom: 0.25em;
+    padding: 0.125em 0.25em;
+    color: $arxiv-color;
+    text-align: center;
+    text-decoration: none !important;
+    border: 1px solid;
+    border-color: $vimeo-color;
+    border-radius: $border-radius;
+    cursor: pointer;
+
+    &:hover {
+      color: #fff;
+      background-color: $vimeo-color !important;
+    }
+  }
+  
+   &--PDF {
+    display: inline-block;
+    margin-bottom: 0.25em;
+    padding: 0.125em 0.25em;
+    color: $arxiv-color;
+    text-align: center;
+    text-decoration: none !important;
+    border: 1px solid;
+    border-color: $soundcloud-color;
+    border-radius: $border-radius;
+    cursor: pointer;
+
+    &:hover {
+      color: #fff;
+      background-color: $soundcloud-color !important;
+    }
+  }
+  
 }
