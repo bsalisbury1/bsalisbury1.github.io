@@ -48,4 +48,4 @@ syllabus for that course.
 - Math 2310: Honors Multivariable Calculus ([Fall 2010](/files/syllabus-math2310f10.pdf))
 - Math 2410: Differential Equations ([Spring 2011](/files/syllabus-math2410s11.pdf), [Summer 2011](/files/syllabus-math2410su11.pdf), [Fall 2011](/files/syllabus-math2410f11.pdf))
 
-[^1]:  I was discussion leader for three sections for this semester.
+[^1]:  I was discussion leader for three sections of this course for this semester.
