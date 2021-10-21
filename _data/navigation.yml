@@ -4,16 +4,16 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/ 
+    url: /teaching/
 
 #  - title: "Talks"
-#    url: /talks/       
-    
-  - title: "SageMath"
-    url: /sagemath/
-        
+#    url: /talks/
+
+#  - title: "SageMath"
+#    url: /sagemath/
+
 #  - title: "Posts"
 #    url: /year-archive/
-    
+
   - title: "CV"
     url: /cv/
