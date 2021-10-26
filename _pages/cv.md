@@ -39,7 +39,7 @@ A PDF version of my CV can be found [here](/files/cv_salisbury.pdf).
 
 
 ## Funding
-- Simons Foundation, Collaboration Grant for Mathematicians, #429950, 2016--2021.
+- [Simons Foundation](https://www.simonsfoundation.org), Collaboration Grant for Mathematicians, #429950, 2016--2021.
 
 ## Meetings Organized
 

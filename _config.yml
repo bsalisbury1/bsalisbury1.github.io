@@ -86,7 +86,7 @@ author:
   email            : "salis1bt@cmich.edu"
   location         : "Mount Pleasant, MI"
   employer         : "Central Michigan University"
-  pubmed           : 
+  pubmed           :
   orcid            : "http://orcid.org/0000-0002-7013-5301"
   arxiv            : "http://arXiv.org/find/math/1/au:+Salisbury_B/0/1/0/all/0/1"
   googlescholar    : "https://scholar.google.com/citations?user=kVld5kQAAAAJ&hl=en"
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -177,13 +177,7 @@ kramdown:
 
 # Collections
 collections:
-#  teaching:
-#    output: true
-#    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -211,15 +205,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -229,15 +214,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
