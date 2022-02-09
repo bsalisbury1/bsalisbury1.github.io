@@ -44,7 +44,7 @@ syllabus for that course.
 - Math 1020: Problem Solving ([Fall 2007](/files/syllabus-math1020f07.pdf), [Spring 2008](/files/syllabus-math1020s08.pdf))
 - Math 1070: Mathematics for Business and Economics ([Summer 2012](/files/syllabus-math1070su12.pdf))
 - Math 1131Q: Calculus I ([Fall 2008](/files/syllabus-math1131f08.pdf), [Fall 2009](/files/syllabus-math1131f09.pdf)[^1])
-- Math 1132Q: Calculus II ([Spring 2009](/files/syllabus-math1131s09.pdf), Spring 2010[^1])
+- Math 1132Q: Calculus II ([Spring 2009](/files/syllabus-math1132s09.pdf), Spring 2010[^1])
 - Math 2310: Honors Multivariable Calculus ([Fall 2010](/files/syllabus-math2310f10.pdf))
 - Math 2410: Differential Equations ([Spring 2011](/files/syllabus-math2410s11.pdf), [Summer 2011](/files/syllabus-math2410su11.pdf), [Fall 2011](/files/syllabus-math2410f11.pdf))
 
