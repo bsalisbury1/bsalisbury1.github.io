@@ -21,7 +21,7 @@ syllabus for that course.
 - MTH 132H: Honors Calculus I ([Fall 2015](/files/syllabus-mth132Hf15.pdf), [Fall 2016](/files/syllabus-mth132Hf16.pdf), [Fall 2017](/files/syllabus-mth132Hf17.pdf), [Fall 2018](/files/syllabus-mth132Hf18.pdf))
 - MTH 133: Calculus II ([Fall 2013](/files/syllabus-mth133f13.pdf))
 - MTH 133H: Honors Calculus II ([Spring 2019](/files/syllabus-mth133Hs19.pdf))
-- MTH 217: Business Calculus ([Summer 2016](/files/syllabus-mth217su16.pdf), [Summer 2017](/files/syllabus-mth217su17.pdf), [Summer 2018](/files/syllabus-mth217su18.pdf), [Summer 2018](/files/syllabus-mth217su22.pdf))
+- MTH 217: Business Calculus ([Summer 2016](/files/syllabus-mth217su16.pdf), [Summer 2017](/files/syllabus-mth217su17.pdf), [Summer 2018](/files/syllabus-mth217su18.pdf), [Summer 2022](/files/syllabus-mth217su22.pdf))
 - MTH 223: Linear Algebra and Matrix Theory ([Fall 2014](/files/syllabus-mth223f14.pdf))
 - MTH 232: Linear Algebra and Differential Equations ([Spring 2021](/files/syllabus-mth232s21.pdf))
 - MTH 233: Multivariable Calculus ([Spring 2014](/files/syllabus-mth233s14.pdf), [Fall 2018](/files/syllabus-mth233f18.pdf))
