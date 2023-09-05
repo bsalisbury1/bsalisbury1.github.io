@@ -29,7 +29,7 @@ syllabus for that course.
 - MTH 332: Introduction to Mathematical Proof ([Fall 2020](/files/syllabus-mth332f20.pdf))
 - MTH 375: Discrete Structures ([Fall 2018](/files/syllabus-mth375f18.pdf))
 - MTH 521: Theory of Numbers ([Fall 2021](/files/syllabus-mth521f21.pdf))
-- MTH 523: Abstract Algebra ([Spring 2018](/files/syllabus-mth523s18.pdf), [Spring 2022](/files/syllabus-mth523s22.pdf))
+- MTH 523: Abstract Algebra ([Spring 2018](/files/syllabus-mth523s18.pdf), [Spring 2022](/files/syllabus-mth523s22.pdf), [Spring 2023](/files/syllabus-mth523s23.pdf))
 - MTH 525: Advanced Linear Algebra ([Fall 2015](/files/syllabus-mth525f15.pdf))
 - MTH 527: Representation Theory of the Symmetric Group ([Spring 2016](/files/syllabus-mth527s16.pdf))
 - MTH 578: Combinatorics and Graph Theory ([Fall 2016](/files/syllabus-mth578f16.pdf), [Fall 2022](/files/syllabus-mth578f22.pdf))
