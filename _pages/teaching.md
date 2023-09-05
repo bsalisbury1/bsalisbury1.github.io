@@ -25,6 +25,7 @@ syllabus for that course.
 - MTH 223: Linear Algebra and Matrix Theory ([Fall 2014](/files/syllabus-mth223f14.pdf))
 - MTH 232: Linear Algebra and Differential Equations ([Spring 2021](/files/syllabus-mth232s21.pdf))
 - MTH 233: Multivariable Calculus ([Spring 2014](/files/syllabus-mth233s14.pdf), [Fall 2018](/files/syllabus-mth233f18.pdf))
+- MTH 321: Elementary Number Theory ([Fall 2023](/files/syllabus-mth321f23.pdf))
 - MTH 332: Introduction to Mathematical Proof ([Fall 2020](/files/syllabus-mth332f20.pdf))
 - MTH 375: Discrete Structures ([Fall 2018](/files/syllabus-mth375f18.pdf))
 - MTH 521: Theory of Numbers ([Fall 2021](/files/syllabus-mth521f21.pdf))
