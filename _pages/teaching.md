@@ -17,7 +17,7 @@ syllabus for that course.
 ## At Central Michigan University
 
 - MTH 105: Intermediate Algebra ([Summer 2020](/files/syllabus-mth105su20.pdf), [Summer 2022](/files/syllabus-mth105su22.pdf), [Summer 2024](/files/syllabus-mth105su24.pdf))
-- MTH 107: College Algebra ([Fall 2024](/files/syllabus-mth1070f24.pdf))
+- MTH 107: College Algebra ([Fall 2024](/files/syllabus-mth107f24.pdf))
 - MTH 132: Calculus I ([Spring 2020](/files/syllabus-mth132s20.pdf), [Summer 2021](/files/syllabus-mth132su21.pdf))
 - MTH 132H: Honors Calculus I ([Fall 2015](/files/syllabus-mth132Hf15.pdf), [Fall 2016](/files/syllabus-mth132Hf16.pdf), [Fall 2017](/files/syllabus-mth132Hf17.pdf), [Fall 2018](/files/syllabus-mth132Hf18.pdf))
 - MTH 133: Calculus II ([Fall 2013](/files/syllabus-mth133f13.pdf), [Summer 2024](/files/syllabus-mth133su24.pdf))
