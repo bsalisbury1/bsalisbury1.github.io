@@ -33,6 +33,7 @@ syllabus for that course.
 - MTH 523: Abstract Algebra ([Spring 2018](/files/syllabus-mth523s18.pdf), [Spring 2022](/files/syllabus-mth523s22.pdf), [Spring 2023](/files/syllabus-mth523s23.pdf))
 - MTH 525: Advanced Linear Algebra ([Fall 2015](/files/syllabus-mth525f15.pdf))
 - MTH 527: Representation Theory of the Symmetric Group ([Spring 2016](/files/syllabus-mth527s16.pdf))
+- MTH 545: Introduction to Point-Set Topology ([Spring 2025](/files/syllabus-mth545s25.pdf))
 - MTH 578: Combinatorics and Graph Theory ([Fall 2016](/files/syllabus-mth578f16.pdf), [Fall 2022](/files/syllabus-mth578f22.pdf))
 - MTH 625: Theory of Associative Rings ([Fall 2014](/files/syllabus-mth625f14.pdf))
 - MTH 627: Representation Theory of Lie Algebras ([Spring 2017](/files/syllabus-mth627s17.pdf))
