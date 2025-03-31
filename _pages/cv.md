@@ -25,7 +25,7 @@ A PDF version of my CV can be found [here](/files/cv_salisbury.pdf).
 
 - [Central Michigan University](http://www.cmich.edu/Pages/default.aspx), Mount Pleasant, MI
   * Professor of Mathematics, 2020-present
-  * Department Chair, 2019-present
+  * Department Chair in Mathematics, 2019-2025
   * Associate Professor of Mathematics, 2017-2020
   * Assistant Professor of Mathematics, 2013-2017
 
