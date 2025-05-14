@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ben Salisbury"
 title_separator          : "-"
 name                     : &name "Ben Salisbury"
-description              : &description "Mathematician"
+description              : &description "Data Scientist and Mathematician"
 url                      : https://bsalisbury1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bsalisbury1/bsalisbury1.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Ben Salisbury"
   avatar           : "profile.png"
-  bio              : "Professor of Mathematics and Department Chair"
-  email            : "salis1bt@cmich.edu"
+  bio              : "Data Scientist"
+  email            : 
   location         : "Mount Pleasant, MI"
-  employer         : "Central Michigan University"
+  employer         : 
   pubmed           :
   orcid            : "http://orcid.org/0000-0002-7013-5301"
   arxiv            : "http://arXiv.org/find/math/1/au:+Salisbury_B/0/1/0/all/0/1"
@@ -99,10 +99,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/bsalisbury1"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/bsalisbury1/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "bsalisbury1"
