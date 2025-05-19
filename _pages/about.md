@@ -19,3 +19,9 @@ Prior to becoming a data scientist, I ...
 - earned by Ph.D. in Mathematics in 2012 at the [University of Connecticut](https://math.uconn.edu) under the direction of [Kyu-Hwan Lee]({{ site.links.KHL }}).
 
 While a research mathematician, my research interests were in [algebraic combinatorics](https://en.wikipedia.org/wiki/Algebraic_combinatorics) and [representation theory](https://en.wikipedia.org/wiki/Representation_theory); primarily in the theory of [crystal bases](https://en.wikipedia.org/wiki/Crystal_base).
+
+\\(x^2 = -1\\) 
+
+\\[
+  \int_a^b f(x) \,dx = f(b) - f(a)
+\\]
