@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Ben Salisbury",
+    "email": "",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://bsalisbury1.github.io",
+    "summary": "Mathematician turned data scientist",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Mount Pleasant, MI",
       "countryCode": "US",
       "region": ""
     },
@@ -16,17 +16,17 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=kVld5kQAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "http://orcid.org/0000-0002-7013-5301"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "bsalisbury1",
+        "url": "https://github.com/bsalisbury1"
       }
     ]
   },
