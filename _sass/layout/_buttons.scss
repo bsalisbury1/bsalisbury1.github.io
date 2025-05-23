@@ -168,6 +168,7 @@
     border-color: $warning-color;
     border-radius: $border-radius;
     cursor: pointer;
+    background-color: var(--global-masthead-link-color);
 
     &:hover {
       color: #fff;
@@ -186,6 +187,7 @@
     border-color: $arxiv-color;
     border-radius: $border-radius;
     cursor: pointer;
+    background-color: var(--global-masthead-link-color);
 
     &:hover {
       color: #fff;
@@ -204,6 +206,7 @@
     border-color: $vimeo-color;
     border-radius: $border-radius;
     cursor: pointer;
+    background-color: var(--global-masthead-link-color);
 
     &:hover {
       color: #fff;
@@ -222,6 +225,7 @@
     border-color: $soundcloud-color;
     border-radius: $border-radius;
     cursor: pointer;
+    background-color: var(--global-masthead-link-color);
 
     &:hover {
       color: #fff;
