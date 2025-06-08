@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version of my CV can be found [here](/files/cv_salisbury.pdf).
+A PDF version of my CV can be found [here](/files/cv_salisbury.pdf) and a PDF version of my resume can be found [here](/files/resume_salisbury.pdf).
 
 ## Education
 
@@ -21,13 +21,19 @@ A PDF version of my CV can be found [here](/files/cv_salisbury.pdf).
 
 - B.S. in Mathematics (2007), [University of Rhode Island](http://www.math.uri.edu/), Kingston, RI
 
-## Academic Positions
+## Employment History
 
-- [Central Michigan University](http://www.cmich.edu/Pages/default.aspx), Mount Pleasant, MI
-  * Professor of Mathematics, 2020-present
+- [The Hartford Insurance Group, Inc.](https://www.thehartford.com), Hartford, CT
+  * Data Scientist, Actuarial Strategic Modeling, 2025-present
+
+- [Central Michigan University](https://www.cmich.edu/academics/colleges/college-science-engineering/departments-schools/mathematics), Mount Pleasant, MI
+  * Professor of Mathematics, 2020-2025
   * Department Chair in Mathematics, 2019-2025
   * Associate Professor of Mathematics, 2017-2020
   * Assistant Professor of Mathematics, 2013-2017
+
+- [Travelers Indemnity Co](https://www.travelers.com), Hartford, CT
+  * Intern, Data Science Leadership Development Program, June 2024-August 2024
 
 - [Institute for Computational and Experimental Research in Mathematics](https://icerm.brown.edu), [Brown University](https://www.brown.edu), Providence, RI
   * Postdoctoral Fellow, 2013
@@ -38,7 +44,7 @@ A PDF version of my CV can be found [here](/files/cv_salisbury.pdf).
   * Mentor: [Gautam Chinta](https://chinta.ccny.cuny.edu)
 
 
-## Funding
+## Research Funding
 - [Simons Foundation](https://www.simonsfoundation.org), Collaboration Grant for Mathematicians, #429950, 2016--2021.
 
 ## Meetings Organized

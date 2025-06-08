@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Converted mathematician from academia to data scientist in industry.  
+Converted mathematician from academia to data scientist in industry, current working at [The Hartford](https://www.thehartford.com).
 
 The journey from academia to industry included great advice from many people.  I would love the opportunity to pay-it-forward and help anyone else work out which path is right for them and perhaps even have some advice about how to achieve it.  If you ever would like to discuss, please reach out to me on LinkedIn and we can set up a meeting.  
 
