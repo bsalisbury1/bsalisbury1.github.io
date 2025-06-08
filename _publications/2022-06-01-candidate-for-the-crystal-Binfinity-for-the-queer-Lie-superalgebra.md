@@ -1,5 +1,5 @@
 ---
-title: "Candidate for the crystal $$B(\infty)$$ for the queer Lie superalgebra"
+title: "Candidate for the crystal $$B(\\infty)$$ for the queer Lie superalgebra"
 collection: publications
 permalink: /publication/2022-06-01-candidate-for-the-crystal-Binfinity-for-the-queer-Lie-superalgebra
 date: 2022-06-01
