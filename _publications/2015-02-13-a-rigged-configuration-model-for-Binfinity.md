@@ -1,5 +1,5 @@
 ---
-title: "A rigged configuration model for $$B(\infty)$$"
+title: "A rigged configuration model for $$B(\\infty)$$"
 collection: publications
 permalink: /publication/2015-02-13-a-rigged-configuration-model-for-Binfinity
 date: 2015-02-13
